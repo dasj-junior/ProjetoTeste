@@ -57,6 +57,8 @@ namespace PrimeiroProjeto
             Console.WriteLine("Dados da conta atualizados:");
             Console.WriteLine(conta.ToString() + "\n");
 
+            Console.WriteLine("Dorival Junior / 2020");
+
             Console.ReadKey();
         }
     }
